@@ -1,0 +1,16 @@
+module.exports = {
+  inputTranslation: 'Please input the English translation:',
+  wrongAnswer: 'Wrong answer, please try again.',
+  correctAnswer: 'Correct answer is:',
+  correct: 'Correct!',
+  unitCompleted: 'Congratulations on completing the selected unit!',
+  selectMode: 'Please select mode:',
+  manualMode: 'Manual select units',
+  randomMode: 'Random select unit',
+  selectUnits: 'Select one or more units:',
+  orderQuestion: 'Practice in order?',
+  ordered: 'Yes',
+  shuffled: 'No (Shuffle)',
+  pressAnyKey: 'Press any key to return to menu...',
+  chineseHint: 'Chinese meaning:',
+}; 
