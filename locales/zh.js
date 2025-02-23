@@ -8,9 +8,10 @@ module.exports = {
   manualMode: '手动选择单元',
   randomMode: '随机选择单元',
   selectUnits: '选择一个或多个单元：',
-  orderQuestion: '是否按顺序做题：',
-  ordered: '是',
-  shuffled: '否（打乱顺序）',
+  normalOrdered: '顺序模式',
+  normalShuffled: '随机模式',
+  longSentenceMode: '长句子模式',
+  practiceMode: '请选择答题模式：',
   pressAnyKey: '输入任意键返回首页...',
   chineseHint: '中文释义：',
 }; 

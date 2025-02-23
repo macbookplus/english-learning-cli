@@ -4,6 +4,7 @@ const prompts = require('@inquirer/prompts');
 
 let language = 'en'; // zh:中文 en:英文
 const i18n = require(`./locales/${language}.js`);
+const minWordsForLongSentence = 5; // 定义长句子的最小单词数
 
 // 读取指定目录中的所有 JSON 文件
 const loadUnits = () => {
@@ -107,17 +108,27 @@ const mainMenu = async () => {
       selectedUnits = [randomUnit.data];
     }
   
-    const shuffleChoice = await prompts.select({
-      message: i18n.orderQuestion,
+    const practiceMode = await prompts.select({
+      message: i18n.practiceMode,
       choices: [
-        { name: i18n.ordered, value: 'ordered' },
-        { name: i18n.shuffled, value: 'shuffled' }
+        { name: i18n.normalOrdered, value: 'ordered' },
+        { name: i18n.normalShuffled, value: 'shuffled' },
+        { name: i18n.longSentenceMode, value: 'longSentence' }
       ]
     });
   
-    if (shuffleChoice === 'shuffled') {
+    if (practiceMode === 'shuffled') {
       selectedUnits.forEach(unit => {
         unit.sort(() => Math.random() - 0.5);
+      });
+    } else if (practiceMode === 'longSentence') {
+      selectedUnits = selectedUnits.map(unit => {
+        // 筛选出长句子（英文单词数大于设定值的句子）
+        const longSentences = unit.filter(sentence => 
+          sentence.english.split(' ').length >= minWordsForLongSentence
+        );
+        // 打乱长句子的顺序
+        return longSentences.sort(() => Math.random() - 0.5);
       });
     }
   
@@ -129,8 +140,8 @@ const mainMenu = async () => {
       message: i18n.pressAnyKey
     });
   
-    mainMenu(); // 返回主菜单
-  };
+    mainMenu();
+};
   
 
 // 启动游戏

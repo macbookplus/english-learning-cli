@@ -1,4 +1,4 @@
-# English Learning Cli
+# English Learning CLI
 一个使用命令行学习英语的工具，使用了 [Cuixueshe Earthworm](https://github.com/cuixueshe/earthworm) 的玩法和课程。
 
 
@@ -11,6 +11,7 @@
 - 支持选择多个课程
 - 支持随机选择课程
 - 支持打乱顺序练习
+- 支持只练习长句子（快速复习）
 - 提示语支持中文、英文（默认英文，更隐蔽）
 
 ## 使用指南
@@ -45,12 +46,13 @@ pnpm start
 (Use arrow keys to reveal more choices)
 ```
 
-### 选择是否按顺序答题
+### 选择答题模式（顺序模式、乱序模式、长句模式）
 ```bash
 ✔ Select one or more units: 01.json, 02.json
-? Practice in order? (Use arrow keys)
-❯ Yes
-  No (Shuffle)
+? Select practice mode: (Use arrow keys)
+❯ Sequential Mode
+  Random Mode
+  Long Sentence Mode
 ```
 
 ### 开始答题
