@@ -1,782 +1,637 @@
 [
 	{
-		"chinese": "支付",
-		"english": "to pay",
-		"soundmark": "/tə/ /pe/"
+		"chinese": "解决",
+		"english": "to solve",
+		"soundmark": "/tə/ /sɔlv/"
 	},
 	{
-		"chinese": "账单",
-		"english": "the bill",
-		"soundmark": "/ðə/ /bɪl/"
+		"chinese": "解决(ed形式)",
+		"english": "solved",
+		"soundmark": "/sɔlvd/"
 	},
 	{
-		"chinese": "支付账单",
-		"english": "to pay the bill",
-		"soundmark": "/tə/ /pe/ /ðə/ /bɪl/"
+		"chinese": "被解决",
+		"english": "be solved",
+		"soundmark": "/bi/ /sɔlvd/"
 	},
 	{
-		"chinese": "我支付账单",
-		"english": "I pay the bill",
-		"soundmark": "/aɪ/ /pe/ /ðə/ /bɪl/"
+		"chinese": "那个问题",
+		"english": "the problem",
+		"soundmark": "/ðə/ /'prɑbləm/"
 	},
 	{
-		"chinese": "支付(过去分词)",
-		"english": "paid",
-		"soundmark": "/ped/"
+		"chinese": "那个问题被解决",
+		"english": "the problem is solved",
+		"soundmark": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/"
 	},
 	{
-		"chinese": "我(已经)支付了账单",
-		"english": "I have paid the bill",
-		"soundmark": "/aɪ/ /hæv/ /ped/ /ðə/ /bɪl/"
+		"chinese": "(已经)被解决",
+		"english": "has been solved",
+		"soundmark": "/hæz/ /bɪn/ /sɔlvd/"
 	},
 	{
-		"chinese": "老师",
-		"english": "teacher",
-		"soundmark": "/'titʃɚ/"
+		"chinese": "那个问题(已经)被解决",
+		"english": "the problem has been solved",
+		"soundmark": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/"
 	},
 	{
-		"chinese": "我是一名老师",
-		"english": "I am a teacher",
-		"soundmark": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+		"chinese": "(过去已经)被解决",
+		"english": "had been solved",
+		"soundmark": "/hæd/ /bɪn/ /sɔlvd/"
 	},
 	{
-		"chinese": "我(已经)是一名老师了",
-		"english": "I have been a teacher",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/"
+		"chinese": "那个问题(过去已经)被解决",
+		"english": "the problem had been solved",
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/"
 	},
 	{
-		"chinese": "年",
-		"english": "year",
-		"soundmark": "/jɪr/"
+		"chinese": "通过他",
+		"english": "by him",
+		"soundmark": "/baɪ/ /hɪm/"
 	},
 	{
-		"chinese": "五年",
-		"english": "five years",
-		"soundmark": "/faɪv/ /jɪrz/"
+		"chinese": "那个问题(过去已经)通过他被解决",
+		"english": "the problem had been solved by him",
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
 	},
 	{
-		"chinese": "我(已经)是一名老师五年了",
-		"english": "I have been a teacher for five years",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /fɚ/ /faɪv/ /jɪrz/"
+		"chinese": "其他",
+		"english": "else",
+		"soundmark": "/ɛls/"
 	},
 	{
-		"chinese": "自从......以来",
-		"english": "since",
-		"soundmark": "/sɪns/"
+		"chinese": "任何人",
+		"english": "anyone",
+		"soundmark": "/'ɛnɪwʌn/"
 	},
 	{
-		"chinese": "我自从2019年(已经)是一名老师了",
-		"english": "I have been a teacher since 2019",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /sɪns/ /'twɛnti/ /ˌnaɪn'tin/"
+		"chinese": "其他任何人",
+		"english": "anyone else",
+		"soundmark": "/'ɛnɪwʌn/ /ɛls/"
 	},
 	{
-		"chinese": "医生",
-		"english": "doctor",
-		"soundmark": "/'dɑktɚ/"
+		"chinese": "注意到",
+		"english": "to notice",
+		"soundmark": "/tə/ /ˈnotɪs/"
 	},
 	{
-		"chinese": "他是一名医生",
-		"english": "he is a doctor",
-		"soundmark": "/hi/ /ɪz/ /ə/ /'dɑktɚ/"
+		"chinese": "注意到(过去)",
+		"english": "noticed",
+		"soundmark": "/ˈnotɪst/"
 	},
 	{
-		"chinese": "他(已经)是一名医生了",
-		"english": "he has been a doctor",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/"
+		"chinese": "它",
+		"english": "it",
+		"soundmark": "/ɪt/"
 	},
 	{
-		"chinese": "他(已经)是一名医生15年了",
-		"english": "he has been a doctor for fifteen years",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/ /fɚ/ /ˌfɪfˈtin/ /jɪrz/"
+		"chinese": "注意到(过去)它",
+		"english": "noticed it",
+		"soundmark": "/ˈnotɪst/ /ɪt/"
 	},
 	{
-		"chinese": "生病的",
-		"english": "sick",
-		"soundmark": "/sɪk/"
+		"chinese": "其他任何人注意到(过去)它",
+		"english": "anyone else noticed it",
+		"soundmark": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
 	},
 	{
-		"chinese": "他是生病的",
-		"english": "he is sick",
-		"soundmark": "/hi/ /ɪz/ /sɪk/"
-	},
-	{
-		"chinese": "他(已经)生病了",
-		"english": "he has been sick",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/"
-	},
-	{
-		"chinese": "一星期",
-		"english": "a week",
-		"soundmark": "/ə/ /wik/"
-	},
-	{
-		"chinese": "他(已经)生病一星期了",
-		"english": "he has been sick for a week",
-		"soundmark": "/hi/ /hæz/ /bɪn/ /sɪk/ /fɚ/ /ə/ /wik/"
-	},
-	{
-		"chinese": "结婚",
-		"english": "to marry",
-		"soundmark": "/tə/ /'mæri/"
-	},
-	{
-		"chinese": "结婚的",
-		"english": "married",
-		"soundmark": "/ˈmærid/"
-	},
-	{
-		"chinese": "他们是结婚的",
-		"english": "they are married",
-		"soundmark": "/ðe/ /ɚ/ /ˈmærid/"
-	},
-	{
-		"chinese": "他们(已经)结婚了",
-		"english": "they have been married",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/"
-	},
-	{
-		"chinese": "十年",
-		"english": "ten years",
-		"soundmark": "/tɛn/ /jɪrz/"
-	},
-	{
-		"chinese": "他们(已经)结婚十年了",
-		"english": "they have been married for ten years",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /ˈmærid/ /fɚ/ /tɛn/ /jɪrz/"
-	},
-	{
-		"chinese": "朋友",
-		"english": "friend",
-		"soundmark": "/frɛnd/"
-	},
-	{
-		"chinese": "他们是朋友",
-		"english": "they are friends",
-		"soundmark": "/ðe/ /ɚ/ /frɛndz/"
-	},
-	{
-		"chinese": "他们(已经)是朋友了",
-		"english": "they have been friends",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/"
-	},
-	{
-		"chinese": "自从......以来",
-		"english": "since",
-		"soundmark": "/sɪns/"
-	},
-	{
-		"chinese": "幼儿园",
-		"english": "kindergarten",
-		"soundmark": "/ˈkɪndɚɡɑrtn/"
-	},
-	{
-		"chinese": "自从幼儿园",
-		"english": "since kindergarten",
-		"soundmark": "/sɪns/ /ˈkɪndɚɡɑrtn/"
-	},
-	{
-		"chinese": "他们自从幼儿园(已经)是朋友了",
-		"english": "they have been friends since kindergarten",
-		"soundmark": "/ðe/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈkɪndɚɡɑrtn/"
-	},
-	{
-		"chinese": "我们是朋友",
-		"english": "we are friends",
-		"soundmark": "/wi/ /ɚ/ /frɛndz/"
-	},
-	{
-		"chinese": "我们(已经)是朋友了",
-		"english": "we have been friends",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/"
-	},
-	{
-		"chinese": "孩子",
-		"english": "child",
-		"soundmark": "/tʃaɪld/"
-	},
-	{
-		"chinese": "童年",
-		"english": "childhood",
-		"soundmark": "/ˈtʃaɪldhʊd/"
-	},
-	{
-		"chinese": "自从......以来",
-		"english": "since",
-		"soundmark": "/sɪns/"
-	},
-	{
-		"chinese": "自从童年",
-		"english": "since childhood",
-		"soundmark": "/sɪns/ /ˈtʃaɪldhʊd/"
-	},
-	{
-		"chinese": "我们自从童年(已经)是朋友了",
-		"english": "we have been friends since childhood",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈtʃaɪldhʊd/"
-	},
-	{
-		"chinese": "邻居",
-		"english": "neighbor",
-		"soundmark": "/ˈnebɚ/"
-	},
-	{
-		"chinese": "我们是邻居",
-		"english": "we are neighbors",
-		"soundmark": "/wi/ /ɚ/ /ˈnebɚz/"
-	},
-	{
-		"chinese": "我们(已经)是邻居了",
-		"english": "we have been neighbors",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/"
-	},
-	{
-		"chinese": "邻居",
-		"english": "neighbor",
-		"soundmark": "/ˈnebɚ/"
-	},
-	{
-		"chinese": "街区",
-		"english": "neighborhood",
-		"soundmark": "/ˈnebɚˌhʊd/"
-	},
-	{
-		"chinese": "这个街区",
-		"english": "this neighborhood",
-		"soundmark": "/ðɪs/ /ˈnebɚˌhʊd/"
-	},
-	{
-		"chinese": "搬家",
-		"english": "to move",
-		"soundmark": "/tə/ /muv/"
-	},
-	{
-		"chinese": "搬家(过去式)",
-		"english": "moved",
-		"soundmark": "/muvd/"
-	},
-	{
-		"chinese": "我们搬家(过去式)",
-		"english": "we moved",
-		"soundmark": "/wi/ /muvd/"
-	},
-	{
-		"chinese": "我们搬家到这个街区",
-		"english": "we moved to this neighborhood",
-		"soundmark": "/wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
-	},
-	{
-		"chinese": "自从......以来",
-		"english": "since",
-		"soundmark": "/sɪns/"
-	},
-	{
-		"chinese": "自从我们搬家到这个街区",
-		"english": "since we moved to this neighborhood",
-		"soundmark": "/sɪns/ /wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
-	},
-	{
-		"chinese": "两个都",
-		"english": "both",
-		"soundmark": "/boθ/"
-	},
-	{
-		"chinese": "自从我们两个都搬家到这个街区",
-		"english": "since we both moved to this neighborhood",
-		"soundmark": "/sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
-	},
-	{
-		"chinese": "我们(已经)是邻居了",
-		"english": "we have been neighbors",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/"
-	},
-	{
-		"chinese": "我们(已经)是邻居了自从我们两个都搬家到这个街区",
-		"english": "we have been neighbors since we both moved to this neighborhood",
-		"soundmark": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/ /sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
-	},
-	{
-		"chinese": "在这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
-	},
-	{
-		"chinese": "我在这里",
-		"english": "I am here",
-		"soundmark": "/aɪ/ /æm/ /hɪr/"
-	},
-	{
-		"chinese": "我(已经)在这里过了",
-		"english": "I have been here",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /hɪr/"
-	},
-	{
-		"chinese": "在那里",
-		"english": "there",
-		"soundmark": "/ðɛr/"
-	},
-	{
-		"chinese": "我在那里",
-		"english": "I am there",
-		"soundmark": "/aɪ/ /æm/ /ðɛr/"
-	},
-	{
-		"chinese": "我(已经)去过那里了",
-		"english": "I have been there",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ðɛr/"
-	},
-	{
-		"chinese": "在国外",
-		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
-	},
-	{
-		"chinese": "我在国外",
-		"english": "I am abroad",
-		"soundmark": "/aɪ/ /æm/ /ə'brɔd/"
-	},
-	{
-		"chinese": "我(已经)去过国外",
-		"english": "I have been abroad",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/"
-	},
-	{
-		"chinese": "地方",
-		"english": "place",
-		"soundmark": "/ples/"
-	},
-	{
-		"chinese": "那个地方",
-		"english": "that place",
-		"soundmark": "/ðæt/ /ples/"
-	},
-	{
-		"chinese": "我(已经)去过那个地方",
-		"english": "I have been to that place",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/"
-	},
-	{
-		"chinese": "还没有",
-		"english": "haven't",
-		"soundmark": "/ˈhævnt/"
-	},
-	{
-		"chinese": "我(还没有)去过那个地方",
-		"english": "I haven't been to that place",
-		"soundmark": "/aɪ/ /ˈhævnt/ /bɪn/ /tə/ /ðæt/ /ples/"
-	},
-	{
-		"chinese": "从来没有",
-		"english": "never",
-		"soundmark": "/'nɛvɚ/"
-	},
-	{
-		"chinese": "我从来没有去过那个地方",
-		"english": "I have never been to that place",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðæt/ /ples/"
-	},
-	{
-		"chinese": "墙",
-		"english": "wall",
-		"soundmark": "/wɔl/"
-	},
-	{
-		"chinese": "伟大的",
-		"english": "great",
-		"soundmark": "/ɡret/"
-	},
-	{
-		"chinese": "长城",
-		"english": "The Great Wall",
-		"soundmark": "/ðə/ /ɡret/ /wɔl/"
-	},
-	{
-		"chinese": "中国",
-		"english": "China",
-		"soundmark": "/ˈtʃaɪnə/"
-	},
-	{
-		"chinese": "中国的长城",
-		"english": "The Great Wall of China",
-		"soundmark": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
-	},
-	{
-		"chinese": "我(已经)去过那个地方",
-		"english": "I have been to that place",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/"
-	},
-	{
-		"chinese": "我(已经)去过中国的长城",
-		"english": "I have been to the Great Wall of China",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
-	},
-	{
-		"chinese": "从来没有",
-		"english": "never",
-		"soundmark": "/'nɛvɚ/"
-	},
-	{
-		"chinese": "我从来没有去过中国的长城",
-		"english": "I have never been to the Great Wall of China",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
-	},
-	{
-		"chinese": "迪士尼乐园",
-		"english": "Disneyland",
-		"soundmark": "/'diznilænd/"
-	},
-	{
-		"chinese": "我(已经)去过迪士尼乐园",
-		"english": "I have been to Disneyland",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/"
-	},
-	{
-		"chinese": "加州",
-		"english": "California",
-		"soundmark": "/ˌkælɪˈfɔrnjə/"
-	},
-	{
-		"chinese": "在加州的迪士尼乐园",
-		"english": "Disneyland in California",
-		"soundmark": "/'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
-	},
-	{
-		"chinese": "我(已经)去过在加州的迪士尼乐园",
-		"english": "I have been to Disneyland in California",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
-	},
-	{
-		"chinese": "从来没有",
-		"english": "never",
-		"soundmark": "/'nɛvɚ/"
-	},
-	{
-		"chinese": "我从来没有去过在加州的迪士尼乐园",
-		"english": "I have never been to Disneyland in California",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
-	},
-	{
-		"chinese": "日本",
-		"english": "Japan",
-		"soundmark": "/dʒəˈpæn/"
-	},
-	{
-		"chinese": "我(已经)去过日本",
-		"english": "I have been to Japan",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/"
-	},
-	{
-		"chinese": "两次",
-		"english": "twice",
-		"soundmark": "/twaɪs/"
-	},
-	{
-		"chinese": "我(已经)去过日本两次",
-		"english": "I have been to Japan twice",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/ /twaɪs/"
-	},
-	{
-		"chinese": "从来没有",
-		"english": "never",
-		"soundmark": "/'nɛvɚ/"
-	},
-	{
-		"chinese": "我从来没有去过日本",
-		"english": "I have never been to Japan",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /dʒəˈpæn/"
-	},
-	{
-		"chinese": "加拿大",
-		"english": "Canada",
-		"soundmark": "/ˈkænədə/"
-	},
-	{
-		"chinese": "我从来没有去过加拿大",
-		"english": "I have never been to Canada",
-		"soundmark": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
-	},
-	{
-		"chinese": "你从来没有去过加拿大",
-		"english": "you have never been to Canada",
-		"soundmark": "/ju/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
-	},
-	{
-		"chinese": "你从来没有去过加拿大吗？",
-		"english": "have you never been to Canada",
-		"soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
-	},
-	{
-		"chinese": "以前",
+		"chinese": "在......之前",
 		"english": "before",
 		"soundmark": "/bɪ'fɔr/"
 	},
 	{
-		"chinese": "你以前从来没有去过加拿大吗",
-		"english": "have you never been to Canada before",
-		"soundmark": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/"
+		"chinese": "在其他任何人注意到(过去)它之前",
+		"english": "before anyone else noticed it",
+		"soundmark": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
 	},
 	{
-		"chinese": "曾经",
-		"english": "ever",
-		"soundmark": "/'ɛvɚ/"
+		"chinese": "那个问题(过去已经)被他解决",
+		"english": "the problem had been solved by him",
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
 	},
 	{
-		"chinese": "你以前曾经去过加拿大吗",
-		"english": "have you ever been to Canada before",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/"
+		"chinese": "在其他任何人注意到(过去)它之前那个问题(过去已经)被他解决",
+		"english": "the problem had been solved by him before anyone else noticed it",
+		"soundmark": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
 	},
 	{
-		"chinese": "你曾经去过加拿大吗",
-		"english": "have you ever been to Canada",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"chinese": "粉刷",
+		"english": "to paint",
+		"soundmark": "/tə/ /pent/"
 	},
 	{
-		"chinese": "你曾经......吗",
-		"english": "have you ever been",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/"
+		"chinese": "粉刷(ed形式)",
+		"english": "painted",
+		"soundmark": "/ˈpentɪd/"
 	},
 	{
-		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"chinese": "被粉刷",
+		"english": "be painted",
+		"soundmark": "/bi/ /ˈpentɪd/"
 	},
 	{
-		"chinese": "你曾经来过这里吗？",
-		"english": "have you ever been here",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /hɪr/"
+		"chinese": "(已经)被粉刷",
+		"english": "has been painted",
+		"soundmark": "/hæz/ /bɪn/ /ˈpentɪd/"
 	},
 	{
-		"chinese": "商店",
-		"english": "store",
-		"soundmark": "/stɔr/"
+		"chinese": "(过去已经)被粉刷",
+		"english": "had been painted",
+		"soundmark": "/hæd/ /bɪn/ /ˈpentɪd/"
 	},
 	{
-		"chinese": "那个商店",
-		"english": "that store",
-		"soundmark": "/ðæt/ /stɔr/"
+		"chinese": "那个房子",
+		"english": "the house",
+		"soundmark": "/ðə/ /haʊs/"
 	},
 	{
-		"chinese": "你曾去过那个商店吗？",
-		"english": "have you ever been to that store",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /stɔr/"
+		"chinese": "那个房子(过去已经)被粉刷",
+		"english": "the house had been painted",
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
 	},
 	{
-		"chinese": "餐厅",
-		"english": "restaurant",
-		"soundmark": "/'rɛstrɑnt/"
+		"chinese": "搬",
+		"english": "to move",
+		"soundmark": "/tə/ /muv/"
 	},
 	{
-		"chinese": "那个餐厅",
-		"english": "that restaurant",
-		"soundmark": "/ðæt/ /'rɛstrɑnt/"
+		"chinese": "搬(过去)",
+		"english": "moved",
+		"soundmark": "/muvd/"
 	},
 	{
-		"chinese": "你曾经去过那家餐厅吗？",
-		"english": "have you ever been to that restaurant",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /'rɛstrɑnt/"
+		"chinese": "他们搬(过去)",
+		"english": "they moved",
+		"soundmark": "/ðe/ /muvd/"
 	},
 	{
-		"chinese": "结婚",
-		"english": "to marry",
-		"soundmark": "/tə/ /'mæri/"
+		"chinese": "往里面",
+		"english": "in",
+		"soundmark": "/ɪn/"
 	},
 	{
-		"chinese": "结婚的",
-		"english": "married",
-		"soundmark": "/ˈmærid/"
+		"chinese": "他们搬(过去)进去",
+		"english": "they moved in",
+		"soundmark": "/ðe/ /muvd/ /ɪn/"
 	},
 	{
-		"chinese": "你曾经结过婚吗？",
-		"english": "have you ever been married",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /ˈmærid/"
+		"chinese": "在......之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
 	},
 	{
-		"chinese": "吃",
-		"english": "to eat",
-		"soundmark": "/tə/ /it/"
+		"chinese": "在他们搬(过去)进去之前",
+		"english": "before they moved in",
+		"soundmark": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
 	},
 	{
-		"chinese": "吃(过去分词)",
-		"english": "eaten",
-		"soundmark": "/ˈitn/"
+		"chinese": "那个房子(过去已经)被粉刷",
+		"english": "the house had been painted",
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
 	},
 	{
-		"chinese": "你曾经吃过",
-		"english": "have you ever eaten",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/"
+		"chinese": "在他们搬(过去)进去之前那个房子(过去已经)被粉刷",
+		"english": "the house had been painted before they moved in",
+		"soundmark": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
 	},
 	{
-		"chinese": "榴莲",
-		"english": "durian",
-		"soundmark": "/ˈdʊriən/"
+		"chinese": "建造",
+		"english": "to build",
+		"soundmark": "/tə/ /bɪld/"
 	},
 	{
-		"chinese": "你曾经吃过榴莲吗？",
-		"english": "have you ever eaten durian",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/ /ˈdʊriən/"
+		"chinese": "建筑物",
+		"english": "building",
+		"soundmark": "/'bɪldɪŋ/"
 	},
 	{
-		"chinese": "参加",
-		"english": "to attend",
-		"soundmark": "/tə/ /əˈtɛnd/"
+		"chinese": "那个建筑物",
+		"english": "the building",
+		"soundmark": "/ðə/ /'bɪldɪŋ/"
 	},
 	{
-		"chinese": "参加(过去分词)",
-		"english": "attended",
-		"soundmark": "/əˈtɛndɪd/"
+		"chinese": "疏散",
+		"english": "to evacuate",
+		"soundmark": "/tə/ /ɪˈvækjuet/"
 	},
 	{
-		"chinese": "你曾经参加过",
-		"english": "have you ever attended",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/"
+		"chinese": "疏散(ed形式)",
+		"english": "evacuated",
+		"soundmark": "/ɪˈvækjuetɪd/"
 	},
 	{
-		"chinese": "音乐会",
-		"english": "concert",
-		"soundmark": "/'kɑnsɚt/"
+		"chinese": "被疏散",
+		"english": "be evacuated",
+		"soundmark": "/bi/ /ɪˈvækjuetɪd/"
 	},
 	{
-		"chinese": "现场的",
-		"english": "live",
-		"soundmark": "/laɪv/"
+		"chinese": "(过去已经)被疏散",
+		"english": "had been evacuated",
+		"soundmark": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/"
 	},
 	{
-		"chinese": "一个现场的音乐会",
-		"english": "a live concert",
-		"soundmark": "/ə/ /laɪv/ /'kɑnsɚt/"
+		"chinese": "那个建筑物(过去已经)被疏散",
+		"english": "the building had been evacuated",
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
 	},
 	{
-		"chinese": "你曾经参加过",
-		"english": "have you ever attended",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/"
+		"chinese": "火",
+		"english": "fire",
+		"soundmark": "/ˈfaɪər/"
 	},
 	{
-		"chinese": "你曾经参加过一个现场的音乐会吗？",
-		"english": "have you ever attended a live concert",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/ /ə/ /laɪv/ /'kɑnsɚt/"
+		"chinese": "蔓延",
+		"english": "to spread",
+		"soundmark": "/tə/ /sprɛd/"
 	},
 	{
-		"chinese": "丢掉",
-		"english": "to lose",
-		"soundmark": "/tə/ /luz/"
+		"chinese": "蔓延(过去)",
+		"english": "spread",
+		"soundmark": "/sprɛd/"
 	},
 	{
-		"chinese": "丢掉(过去分词)",
-		"english": "lost",
-		"soundmark": "/lɔst/"
+		"chinese": "火势蔓延(过去)",
+		"english": "the fire spread",
+		"soundmark": "/ðə/ /ˈfaɪər/ /sprɛd/"
 	},
 	{
-		"chinese": "你曾经丢过",
-		"english": "have you ever lost",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/"
+		"chinese": "在......之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
 	},
 	{
-		"chinese": "钱包",
-		"english": "wallet",
-		"soundmark": "/'wɑlɪt/"
+		"chinese": "在火势蔓延(过去)之前",
+		"english": "before the fire spread",
+		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
 	},
 	{
-		"chinese": "你的钱包",
-		"english": "your wallet",
-		"soundmark": "/jʊr/ /'wɑlɪt/"
+		"chinese": "那个建筑物(过去已经)被疏散",
+		"english": "the building had been evacuated",
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
 	},
 	{
-		"chinese": "你曾经丢过你的钱包吗？",
-		"english": "have you ever lost your wallet",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/ /jʊr/ /'wɑlɪt/"
+		"chinese": "在火势蔓延(过去)之前那个建筑物(过去已经)被疏散",
+		"english": "the building had been evacuated before the fire spread",
+		"soundmark": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
 	},
 	{
-		"chinese": "看",
-		"english": "to see",
-		"soundmark": "/tə/ /si/"
+		"chinese": "停车",
+		"english": "to park",
+		"soundmark": "/tə/ /pɑrk/"
 	},
 	{
-		"chinese": "看(过去分词)",
-		"english": "seen",
-		"soundmark": "/sin/"
+		"chinese": "停车(ed形式)",
+		"english": "parked",
+		"soundmark": "/pɑrkt/"
 	},
 	{
-		"chinese": "你曾经看过",
-		"english": "have you ever seen",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/"
+		"chinese": "(过去已经)被停",
+		"english": "had been parked",
+		"soundmark": "/hæd/ /bɪn/ /pɑrkt/"
 	},
 	{
-		"chinese": "彩虹",
-		"english": "rainbow",
-		"soundmark": "/ˈrenbo/"
+		"chinese": "那辆车",
+		"english": "the car",
+		"soundmark": "/ðə/ /kɑr/"
 	},
 	{
-		"chinese": "你曾经见过一个彩虹吗？",
-		"english": "have you ever seen a rainbow",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /sin/ /ə/ /ˈrenbo/"
+		"chinese": "那辆车(过去已经)被停",
+		"english": "the car had been parked",
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/"
 	},
 	{
-		"chinese": "学习",
-		"english": "to study",
-		"soundmark": "/tə/ /'stʌdi/"
+		"chinese": "车库",
+		"english": "garage",
+		"soundmark": "/ɡəˈrɑʒ/"
 	},
 	{
-		"chinese": "学习(过去分词)",
-		"english": "studied",
-		"soundmark": "/ˈstʌdid/"
+		"chinese": "在车库里",
+		"english": "in the garage",
+		"soundmark": "/ɪn/ /ðə/ /ɡəˈrɑʒ/"
 	},
 	{
-		"chinese": "在国外",
-		"english": "abroad",
-		"soundmark": "/ə'brɔd/"
+		"chinese": "那辆车(过去已经)被停在车库里",
+		"english": "the car had been parked in the garage",
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/"
 	},
 	{
-		"chinese": "留学",
-		"english": "studied abroad",
-		"soundmark": "/ˈstʌdid/ /ə'brɔd/"
+		"chinese": "暴风雨",
+		"english": "storm",
+		"soundmark": "/stɔrm/"
 	},
 	{
-		"chinese": "你曾经",
-		"english": "have you ever",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/"
+		"chinese": "在......之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
 	},
 	{
-		"chinese": "你曾经留过学吗？",
-		"english": "have you ever studied abroad",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /ˈstʌdid/ /ə'brɔd/"
+		"chinese": "在暴风雨之前",
+		"english": "before the storm",
+		"soundmark": "/bɪ'fɔr/ /ðə/ /stɔrm/"
 	},
 	{
-		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"chinese": "在暴风雨之前那辆车(过去已经)被停在车库里",
+		"english": "the car had been parked in the garage before the storm",
+		"soundmark": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/"
 	},
 	{
-		"chinese": "做(过去分词)",
-		"english": "made",
-		"soundmark": "/med/"
+		"chinese": "建造",
+		"english": "to constructe",
+		"soundmark": "/tə/ /kənˈstrʌkt/"
 	},
 	{
-		"chinese": "你曾经做过",
-		"english": "have you ever made",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/"
+		"chinese": "建造(ed形式)",
+		"english": "constructed",
+		"soundmark": "/kənˈstrʌktɪd/"
 	},
 	{
-		"chinese": "雪",
-		"english": "snow",
-		"soundmark": "/sno/"
+		"chinese": "被建造",
+		"english": "be constructed",
+		"soundmark": "/bi/ /kənˈstrʌktɪd/"
 	},
 	{
-		"chinese": "雪人",
-		"english": "snowman",
-		"soundmark": "/'snomæn/"
+		"chinese": "(过去已经)被建造",
+		"english": "had been constructed",
+		"soundmark": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
 	},
 	{
-		"chinese": "你曾经堆过雪人吗？",
-		"english": "have you ever made a snowman",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /med/ /ə/ /'snomæn/"
+		"chinese": "那座桥",
+		"english": "the bridge",
+		"soundmark": "/ðə/ /brɪdʒ/"
 	},
 	{
-		"chinese": "你曾经去过加拿大吗？",
-		"english": "have you ever been to Canada",
-		"soundmark": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+		"chinese": "那座桥(过去已经)被建造",
+		"english": "the bridge had been constructed",
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
 	},
 	{
-		"chinese": "我(已经)去过加拿大",
-		"english": "I have been to Canada",
-		"soundmark": "/aɪ/ /hæv/ /bɪn/ /tə/ /ˈkænədə/"
+		"chinese": "雨",
+		"english": "rain",
+		"soundmark": "/ren/"
+	},
+	{
+		"chinese": "多雨的",
+		"english": "rainy",
+		"soundmark": "/'reni/"
+	},
+	{
+		"chinese": "季节",
+		"english": "season",
+		"soundmark": "/'sizn/"
+	},
+	{
+		"chinese": "雨季",
+		"english": "rainy season",
+		"soundmark": "/'reni/ /'sizn/"
+	},
+	{
+		"chinese": "在......之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
+	},
+	{
+		"chinese": "在雨季之前",
+		"english": "before the rainy season",
+		"soundmark": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+	},
+	{
+		"chinese": "那座桥(过去已经)被建造",
+		"english": "the bridge had been constructed",
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+	},
+	{
+		"chinese": "在雨季之前那座桥(过去已经)被建造",
+		"english": "the bridge had been constructed before the rainy season",
+		"soundmark": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+	},
+	{
+		"chinese": "纠正",
+		"english": "to correct",
+		"soundmark": "/tə/ /kə'rɛkt/"
+	},
+	{
+		"chinese": "纠正(ed形式)",
+		"english": "corrected",
+		"soundmark": "/kə'rɛktɪd/"
+	},
+	{
+		"chinese": "被纠正",
+		"english": "be corrected",
+		"soundmark": "/bi/ /kə'rɛktɪd/"
+	},
+	{
+		"chinese": "(过去已经)被纠正",
+		"english": "had been corrected",
+		"soundmark": "/hæd/ /bɪn/ /kə'rɛktɪd/"
+	},
+	{
+		"chinese": "错误",
+		"english": "error",
+		"soundmark": "/ˈɛrər/"
+	},
+	{
+		"chinese": "那个错误(过去已经)被纠正",
+		"english": "the error had been corrected",
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+	},
+	{
+		"chinese": "提交",
+		"english": "to submit",
+		"soundmark": "/tə/ /səbˈmɪt/"
+	},
+	{
+		"chinese": "提交(ed形式)",
+		"english": "submitted",
+		"soundmark": "/səbˈmɪtɪd/"
+	},
+	{
+		"chinese": "被提交",
+		"english": "be submitted",
+		"soundmark": "/bi/ /səbˈmɪtɪd/"
+	},
+	{
+		"chinese": "报告",
+		"english": "report",
+		"soundmark": "/rɪ'pɔrt/"
+	},
+	{
+		"chinese": "那个报告(过去)被提交",
+		"english": "the report was submitted",
+		"soundmark": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+	},
+	{
+		"chinese": "在......之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
+	},
+	{
+		"chinese": "在那个报告(过去)被提交之前",
+		"english": "before the report was submitted",
+		"soundmark": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+	},
+	{
+		"chinese": "那个错误(过去已经)被纠正",
+		"english": "the error had been corrected",
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+	},
+	{
+		"chinese": "在那个报告(过去)被提交之前那个错误(过去已经)被纠正",
+		"english": "the error had been corrected before the report was submitted",
+		"soundmark": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+	},
+	{
+		"chinese": "卖",
+		"english": "to sell",
+		"soundmark": "/tə/ /sɛl/"
+	},
+	{
+		"chinese": "卖光",
+		"english": "to sell out",
+		"soundmark": "/tə/ /sɛl/ /aʊt/"
+	},
+	{
+		"chinese": "卖光(ed形式)",
+		"english": "sold out",
+		"soundmark": "/sold/ /aʊt/"
+	},
+	{
+		"chinese": "被卖光",
+		"english": "be sold out",
+		"soundmark": "/bi/ /sold/ /aʊt/"
+	},
+	{
+		"chinese": "(过去已经)被卖光了",
+		"english": "had been sold out",
+		"soundmark": "/hæd/ /bɪn/ /sold/ /aʊt/"
+	},
+	{
+		"chinese": "票",
+		"english": "ticket",
+		"soundmark": "/'tɪkɪt/"
+	},
+	{
+		"chinese": "那些票",
+		"english": "the tickets",
+		"soundmark": "/ðə/ /'tɪkɪts/"
+	},
+	{
+		"chinese": "那些票(过去已经)被卖光了",
+		"english": "the tickets had been sold out",
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+	},
+	{
+		"chinese": "到达",
+		"english": "to arrive",
+		"soundmark": "/tə/ /ə'raɪv/"
+	},
+	{
+		"chinese": "达到(过去)",
+		"english": "arrived",
+		"soundmark": "/ə'raɪvd/"
+	},
+	{
+		"chinese": "我们到达(过去)",
+		"english": "we arrived",
+		"soundmark": "/wi/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "时间",
+		"english": "the time",
+		"soundmark": "/ðə/ /taɪm/"
+	},
+	{
+		"chinese": "我们到达(过去)的时间",
+		"english": "the time we arrived",
+		"soundmark": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "在我们到达(过去)的时间",
+		"english": "by the time we arrived",
+		"soundmark": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "那些票(过去已经)被卖光了",
+		"english": "the tickets had been sold out",
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+	},
+	{
+		"chinese": "在我们到达(过去)的时间那些票(过去已经)被卖光了",
+		"english": "the tickets had been sold out by the time we arrived",
+		"soundmark": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "改变",
+		"english": "to change",
+		"soundmark": "/tə/ /tʃendʒ/"
+	},
+	{
+		"chinese": "改变(ed形式)",
+		"english": "changed",
+		"soundmark": "/tʃendʒd/"
+	},
+	{
+		"chinese": "被改变",
+		"english": "be changed",
+		"soundmark": "/bi/ /tʃendʒd/"
+	},
+	{
+		"chinese": "(过去已经)被改变",
+		"english": "had been changed",
+		"soundmark": "/hæd/ /bɪn/ /tʃendʒd/"
+	},
+	{
+		"chinese": "密码",
+		"english": "password",
+		"soundmark": "/ˈpæswɝd/"
+	},
+	{
+		"chinese": "那个密码(过去已经)被改变",
+		"english": "the password had been changed",
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+	},
+	{
+		"chinese": "非法入侵",
+		"english": "to hack",
+		"soundmark": "/tə/ /hæk/"
+	},
+	{
+		"chinese": "非法入侵(ed形式)",
+		"english": "hacked",
+		"soundmark": "/hækt/"
+	},
+	{
+		"chinese": "被非法入侵",
+		"english": "be hacked",
+		"soundmark": "/bi/ /hækt/"
+	},
+	{
+		"chinese": "系统",
+		"english": "system",
+		"soundmark": "/ˈsɪstəm/"
+	},
+	{
+		"chinese": "系统被(过去)非法入侵",
+		"english": "the system was hacked",
+		"soundmark": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+	},
+	{
+		"chinese": "在......之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
+	},
+	{
+		"chinese": "在系统被(过去)非法入侵之前",
+		"english": "before the system was hacked",
+		"soundmark": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+	},
+	{
+		"chinese": "那个密码(过去已经)被改变",
+		"english": "the password had been changed",
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+	},
+	{
+		"chinese": "在系统被(过去)非法入侵之前那个密码(过去已经)被改变",
+		"english": "the password had been changed before the system was hacked",
+		"soundmark": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
 	}
 ]

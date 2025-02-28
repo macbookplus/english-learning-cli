@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const prompts = require('@inquirer/prompts');
+const natsort = require('natsort').default;
 
 let language = 'en'; // zh:中文 en:英文
 const i18n = require(`./locales/${language}.js`);
@@ -12,7 +13,10 @@ const loadUnits = () => {
   const files = fs.readdirSync(dataDir);
   const units = [];
 
-  files.forEach(file => {
+  // 对文件名进行自然排序
+  const sortedFiles = files.sort(natsort());
+
+  sortedFiles.forEach(file => {
     if (file.endsWith('.json')) {
       const filePath = path.join(dataDir, file);
       const content = JSON.parse(fs.readFileSync(filePath, 'utf-8'));

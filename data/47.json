@@ -1,647 +1,722 @@
 [
 	{
-		"chinese": "这个",
-		"english": "this",
-		"soundmark": "/ðɪs/"
+		"chinese": "聪明的",
+		"english": "smart",
+		"soundmark": "/smɑrt/"
 	},
 	{
-		"chinese": "问题",
-		"english": "problem",
-		"soundmark": "/'prɑbləm/"
+		"chinese": "人",
+		"english": "person",
+		"soundmark": "/'pɝsn/"
 	},
 	{
-		"chinese": "这个问题",
-		"english": "this problem",
-		"soundmark": "/ðɪs/ /'prɑbləm/"
+		"chinese": "聪明的人",
+		"english": "smart person",
+		"soundmark": "/smɑrt/ /'pɝsn/"
 	},
 	{
-		"chinese": "解决",
-		"english": "to solve",
-		"soundmark": "/tə/ /sɑlv/"
+		"chinese": "最聪明的",
+		"english": "the smartest",
+		"soundmark": "/ðə/ /'smɑrtɪst/"
 	},
 	{
-		"chinese": "解决这个问题",
-		"english": "to solve this problem",
-		"soundmark": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"chinese": "最聪明的人",
+		"english": "the smartest person",
+		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
 	},
 	{
-		"chinese": "应该",
-		"english": "should",
-		"soundmark": "/ʃʊd/"
+		"chinese": "认识",
+		"english": "to know",
+		"soundmark": "/tə/ /no/"
 	},
 	{
-		"chinese": "我们应该",
-		"english": "we should",
-		"soundmark": "/wi/ /ʃʊd/"
+		"chinese": "认识(ed形式)",
+		"english": "known",
+		"soundmark": "/non/"
 	},
 	{
-		"chinese": "尝试",
-		"english": "to try",
-		"soundmark": "/tə/ /traɪ/"
+		"chinese": "我曾经...",
+		"english": "I have ever",
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/"
 	},
 	{
-		"chinese": "我们应该尝试",
-		"english": "we should try",
-		"soundmark": "/wi/ /ʃʊd/ /traɪ/"
+		"chinese": "我曾经认识",
+		"english": "I have ever known",
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "解决这个问题",
-		"english": "to solve this problem",
-		"soundmark": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"chinese": "最聪明的人",
+		"english": "the smartest person",
+		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
 	},
 	{
-		"chinese": "我们应该尝试解决这个问题",
-		"english": "we should try to solve this problem",
-		"soundmark": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"chinese": "我曾经认识的最聪明的人",
+		"english": "the smartest person I have ever known",
+		"soundmark": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "很快",
-		"english": "soon",
-		"soundmark": "/sun/"
+		"chinese": "她是",
+		"english": "she is",
+		"soundmark": "/ʃi/ /ɪz/"
 	},
 	{
-		"chinese": "可能",
-		"english": "possible",
-		"soundmark": "/'pɑsəbl/"
+		"chinese": "她是我曾经认识的最聪明的人",
+		"english": "she is the smartest person I have ever known",
+		"soundmark": "/ʃi/ /ɪz/ /ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "尽可能地快",
-		"english": "as soon as possible",
-		"soundmark": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+		"chinese": "我曾经知道",
+		"english": "I have ever known",
+		"soundmark": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "我们应该尝试尽快解决这个问题",
-		"english": "we should try to solve this problem as soon as possible",
-		"soundmark": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+		"chinese": "他曾经知道",
+		"english": "he has ever known",
+		"soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "将会",
-		"english": "will",
-		"soundmark": "/wɪl/"
+		"chinese": "动物",
+		"english": "animal",
+		"soundmark": "/'ænɪml/"
 	},
 	{
-		"chinese": "我将会尝试解决这个问题",
-		"english": "I will try to solve this problem",
-		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"chinese": "危险的",
+		"english": "dangerous",
+		"soundmark": "/ˈdendʒərəs/"
 	},
 	{
-		"chinese": "设法做到",
-		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"chinese": "危险的动物",
+		"english": "dangerous animal",
+		"soundmark": "/ˈdendʒərəs/ /'ænɪml/"
 	},
 	{
-		"chinese": "我将会设法解决这个问题",
-		"english": "I will manage to solve this problem",
-		"soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+		"chinese": "最",
+		"english": "the most",
+		"soundmark": "/ðə/ /most/"
 	},
 	{
-		"chinese": "家庭作业",
-		"english": "homework",
-		"soundmark": "/’homwɝk/"
+		"chinese": "最危险的",
+		"english": "the most dangerous",
+		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/"
 	},
 	{
-		"chinese": "我的家庭作业",
-		"english": "my homework",
-		"soundmark": "/maɪ/ /’homwɝk/"
+		"chinese": "最危险的动物",
+		"english": "the most dangerous animal",
+		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/"
 	},
 	{
-		"chinese": "完成",
-		"english": "to finish",
-		"soundmark": "/tə/ /ˈfɪnɪʃ/"
+		"chinese": "他曾经知道",
+		"english": "he has ever known",
+		"soundmark": "/hi/ /hæz/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "完成我的家庭作业",
-		"english": "to finish my homework",
-		"soundmark": "/tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/"
+		"chinese": "他曾经知道的最危险的动物",
+		"english": "the most dangerous animal he has ever known",
+		"soundmark": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "我将会尝试完成我的家庭作业",
-		"english": "I will try to finish my homework",
-		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/"
+		"chinese": "这是",
+		"english": "this is",
+		"soundmark": "/ðɪs/ /ɪz/"
 	},
 	{
-		"chinese": "就寝时间",
-		"english": "bedtime",
-		"soundmark": "/'bɛdtaɪm/"
+		"chinese": "这是他曾经知道的最危险的动物",
+		"english": "this is the most dangerous animal he has ever known",
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
 	},
 	{
-		"chinese": "在......之前",
-		"english": "before",
-		"soundmark": "/bɪ'fɔr/"
+		"chinese": "他曾经...",
+		"english": "he has ever",
+		"soundmark": "/hi/ /hæz/ /'ɛvɚ/"
 	},
 	{
-		"chinese": "在睡觉之前",
-		"english": "before bedtime",
-		"soundmark": "/bɪ'fɔr/ /'bɛdtaɪm/"
+		"chinese": "她曾经...",
+		"english": "she has ever",
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
 	},
 	{
-		"chinese": "我将会尝试在睡觉之前完成我的家庭作业",
-		"english": "I will try to finish my homework before bedtime",
-		"soundmark": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/"
+		"chinese": "建议",
+		"english": "advice",
+		"soundmark": "/əd'vaɪs/"
 	},
 	{
-		"chinese": "设法做到",
-		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"chinese": "好的",
+		"english": "good",
+		"soundmark": "/ɡʊd/"
 	},
 	{
-		"chinese": "我将会设法在睡觉之前完成我的家庭作业",
-		"english": "I will manage to finish my homework before bedtime",
-		"soundmark": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/"
+		"chinese": "好的建议",
+		"english": "good advice",
+		"soundmark": "/ɡʊd/ /əd'vaɪs/"
 	},
 	{
-		"chinese": "设法做到",
-		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"chinese": "最好的",
+		"english": "the best",
+		"soundmark": "/ðə/ /bɛst/"
 	},
 	{
-		"chinese": "做",
-		"english": "to do",
-		"soundmark": "/tə/ /du/"
+		"chinese": "最好的建议",
+		"english": "the best advice",
+		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/"
 	},
 	{
-		"chinese": "做这件事",
-		"english": "to do it",
-		"soundmark": "/tə/ /du/ /ɪt/"
+		"chinese": "给",
+		"english": "to give",
+		"soundmark": "/tə/ /ɡɪv/"
 	},
 	{
-		"chinese": "你做这件事",
-		"english": "you do it",
-		"soundmark": "/ju/ /du/ /ɪt/"
+		"chinese": "给(ed形式)",
+		"english": "given",
+		"soundmark": "/ˈɡɪvn/"
 	},
 	{
-		"chinese": "没有",
-		"english": "don't",
-		"soundmark": "/dont/"
+		"chinese": "她曾经...",
+		"english": "she has ever",
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
 	},
 	{
-		"chinese": "你没有做这件事",
-		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"chinese": "她曾经给",
+		"english": "she has ever given",
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/"
 	},
 	{
-		"chinese": "你有做这件事",
-		"english": "you do do it",
-		"soundmark": "/ju/ /du/ /du/ /ɪt/"
+		"chinese": "我",
+		"english": "me",
+		"soundmark": "/mi/"
 	},
 	{
-		"chinese": "你没有做这件事",
-		"english": "you don't do it",
-		"soundmark": "/ju/ /dont/ /du/ /ɪt/"
+		"chinese": "她曾经给我",
+		"english": "she has ever given me",
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
 	},
 	{
-		"chinese": "你(过去)没有做这件事",
-		"english": "you didn't do it",
-		"soundmark": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+		"chinese": "最好的建议",
+		"english": "the best advice",
+		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/"
 	},
 	{
-		"chinese": "你(过去)有做这件事",
-		"english": "you did do it",
-		"soundmark": "/ju/ /dɪd/ /du/ /ɪt/"
+		"chinese": "她曾经给我的最好的建议",
+		"english": "the best advice she has ever given me",
+		"soundmark": "/ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
 	},
 	{
-		"chinese": "你(过去)有做这件事吗？",
-		"english": "did you do it",
-		"soundmark": "/dɪd/ /ju/ /du/ /ɪt/"
+		"chinese": "这是",
+		"english": "this is",
+		"soundmark": "/ðɪs/ /ɪz/"
 	},
 	{
-		"chinese": "如何",
-		"english": "how",
-		"soundmark": "/haʊ/"
+		"chinese": "这是她曾经给我的最好的建议",
+		"english": "this is the best advice she has ever given me",
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
 	},
 	{
-		"chinese": "你(过去)如何做这件事的？ ",
-		"english": "how did you do it",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+		"chinese": "她曾经...",
+		"english": "she has ever",
+		"soundmark": "/ʃi/ /hæz/ /'ɛvɚ/"
 	},
 	{
-		"chinese": "设法做到",
-		"english": "to manage",
-		"soundmark": "/tə/ /ˈmænɪdʒ/"
+		"chinese": "星荣曾经...",
+		"english": "Xingrong has ever",
+		"soundmark": "/hæz/ /'ɛvɚ/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到这件事的？",
-		"english": "how did you manage to do it",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /du/ /ɪt/"
+		"chinese": "设计",
+		"english": "to design",
+		"soundmark": "/tə/ /dɪˈzaɪn/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到......",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"chinese": "设计(ed形式)",
+		"english": "designed",
+		"soundmark": "/dɪˈzaɪnd/"
 	},
 	{
-		"chinese": "到达",
-		"english": "to get",
-		"soundmark": "/tə/ /ɡɛt/"
+		"chinese": "星荣曾经设计",
+		"english": "Xingrong has ever designed",
+		"soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
 	},
 	{
-		"chinese": "这里",
-		"english": "here",
-		"soundmark": "/hɪr/"
+		"chinese": "挑战",
+		"english": "to challenge",
+		"soundmark": "/tə/ /'tʃælɪndʒ/"
 	},
 	{
-		"chinese": "到达这里",
-		"english": "to get here",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/"
+		"chinese": "有挑战性的",
+		"english": "challenging",
+		"soundmark": "/ˈtʃælɪndʒɪŋ/"
 	},
 	{
-		"chinese": "迅速地",
-		"english": "quickly",
-		"soundmark": "/ˈkwɪklɪ/"
+		"chinese": "最",
+		"english": "the most",
+		"soundmark": "/ðə/ /most/"
 	},
 	{
-		"chinese": "如此",
-		"english": "so",
-		"soundmark": "/so/"
+		"chinese": "最有挑战性的",
+		"english": "the most challenging",
+		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/"
 	},
 	{
-		"chinese": "如此迅速地",
-		"english": "so quickly",
-		"soundmark": "/so/ /ˈkwɪklɪ/"
+		"chinese": "课程",
+		"english": "course",
+		"soundmark": "/kɔrs/"
 	},
 	{
-		"chinese": "如此迅速地到达这里",
-		"english": "to get here so quickly",
-		"soundmark": "/tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/"
+		"chinese": "最有挑战性的课程",
+		"english": "the most challenging course",
+		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"chinese": "星荣曾经设计",
+		"english": "Xingrong has ever designed",
+		"soundmark": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到如此迅速地到达这里的？",
-		"english": "how did you manage to get here so quickly",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/"
+		"chinese": "星荣曾经设计的最有挑战性的课程",
+		"english": "the most challenging course Xingrong has ever designed",
+		"soundmark": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"chinese": "这是",
+		"english": "this is",
+		"soundmark": "/ðɪs/ /ɪz/"
 	},
 	{
-		"chinese": "钱",
-		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"chinese": "这是星荣曾经设计的最有挑战性的课程",
+		"english": "this is the most challenging course Xingrong has ever designed",
+		"soundmark": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
 	},
 	{
-		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"chinese": "星荣(已经)设计",
+		"english": "Xingrong has designed",
+		"soundmark": "/hæz/ /dɪˈzaɪnd/"
 	},
 	{
-		"chinese": "赚钱",
-		"english": "to make money",
-		"soundmark": "/tə/ /mek/ /ˈmʌni/"
+		"chinese": "课程",
+		"english": "course",
+		"soundmark": "/kɔrs/"
 	},
 	{
-		"chinese": "如此",
-		"english": "so",
-		"soundmark": "/so/"
+		"chinese": "英文",
+		"english": "English",
+		"soundmark": "/ˈɪŋɡlɪʃ/"
 	},
 	{
-		"chinese": "多",
-		"english": "much",
-		"soundmark": "/mʌtʃ/"
+		"chinese": "英文课程",
+		"english": "English course",
+		"soundmark": "/ˈɪŋɡlɪʃ/ /kɔrs/"
 	},
 	{
-		"chinese": "如此多",
-		"english": "so much",
-		"soundmark": "/so/ /mʌtʃ/"
+		"chinese": "多个",
+		"english": "several",
+		"soundmark": "/'sɛvrəl/"
 	},
 	{
-		"chinese": "钱",
-		"english": "money",
-		"soundmark": "/ˈmʌni/"
+		"chinese": "多个英文课程",
+		"english": "several English courses",
+		"soundmark": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
 	},
 	{
-		"chinese": "如此多的钱",
-		"english": "so much money",
-		"soundmark": "/so/ /mʌtʃ/ /ˈmʌni/"
+		"chinese": "星荣(已经)设计了多个英文课程",
+		"english": "Xingrong has designed several English courses",
+		"soundmark": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
 	},
 	{
-		"chinese": "做",
-		"english": "to make",
-		"soundmark": "/tə/ /mek/"
+		"chinese": "访问",
+		"english": "to visit",
+		"soundmark": "/tə/ /'vɪzɪt/"
 	},
 	{
-		"chinese": "赚如此多的钱",
-		"english": "to make so much money",
-		"soundmark": "/tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+		"chinese": "访问(ed形式)",
+		"english": "visited",
+		"soundmark": "/'vɪzɪtɪd/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"chinese": "她(已经)访问",
+		"english": "she has visited",
+		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到赚如此多的钱的？",
-		"english": "how did you manage to make so much money",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+		"chinese": "法国",
+		"english": "France",
+		"soundmark": "/fræns/"
 	},
 	{
-		"chinese": "时间",
+		"chinese": "她(已经)访问过法国",
+		"english": "she has visited France",
+		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/"
+	},
+	{
+		"chinese": "次",
 		"english": "time",
 		"soundmark": "/taɪm/"
 	},
 	{
-		"chinese": "短",
-		"english": "short",
-		"soundmark": "/ʃɔrt/"
+		"chinese": "三次",
+		"english": "three times",
+		"soundmark": "/θri/ /taɪmz/"
 	},
 	{
-		"chinese": "一段短的时间",
-		"english": "a short time",
-		"soundmark": "/ə/ /ʃɔrt/ /taɪm/"
+		"chinese": "她(已经)访问过法国三次",
+		"english": "she has visited France three times",
+		"soundmark": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/ /θri/ /taɪmz/"
 	},
 	{
-		"chinese": "在......里",
-		"english": "in",
-		"soundmark": "/ɪn/"
+		"chinese": "完成",
+		"english": "to finish",
+		"soundmark": "/tə/ /'fɪnɪʃ/"
 	},
 	{
-		"chinese": "在一段短的时间里",
-		"english": "in a short time",
-		"soundmark": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/"
+		"chinese": "完成(ed形式)",
+		"english": "finished",
+		"soundmark": "/'fɪnɪʃt/"
 	},
 	{
-		"chinese": "如此",
-		"english": "such",
-		"soundmark": "/sʌtʃ/"
+		"chinese": "他们(已经)完成",
+		"english": "they have finished",
+		"soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/"
 	},
 	{
-		"chinese": "在一段如此短的时间里",
-		"english": "in such a short time",
-		"soundmark": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"chinese": "项目",
+		"english": "project",
+		"soundmark": "/ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到赚如此多的钱的？",
-		"english": "how did you manage to make so much money",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+		"chinese": "他们的",
+		"english": "their",
+		"soundmark": "/ðɛr/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到在一段如此短的时间里赚如此多的钱的？",
-		"english": "how did you manage to make so much money in such a short time",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"chinese": "他们的项目",
+		"english": "their project",
+		"soundmark": "/ðɛr/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "写",
-		"english": "to write",
-		"soundmark": "/tə/ /raɪt/"
+		"chinese": "他们(已经)完成了他们的项目",
+		"english": "they have finished their project",
+		"soundmark": "/ðe/ /hæv/ /'fɪnɪʃt/ /ðɛr/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "这本书",
-		"english": "this book",
-		"soundmark": "/ðɪs/ /bʊk/"
+		"chinese": "我们(已经)完成了我们的项目",
+		"english": "we have finished our project",
+		"soundmark": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "写这本书",
-		"english": "to write this book",
-		"soundmark": "/tə/ /raɪt/ /ðɪs/ /bʊk/"
+		"chinese": "我(已经)完成了我的项目",
+		"english": "I have finished my project",
+		"soundmark": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"chinese": "你(已经)完成了你的项目",
+		"english": "you have finished your project",
+		"soundmark": "/ju/ /hæv/ /'fɪnɪʃt/ /jʊr/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到写这本书的？",
-		"english": "how did you manage to write this book",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/"
+		"chinese": "他(已经)完成了他的项目",
+		"english": "he has finished his project",
+		"soundmark": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "监狱",
-		"english": "prison",
-		"soundmark": "/ˈprɪzn/"
+		"chinese": "她(已经)完成了她的项目",
+		"english": "she has finished her project",
+		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "在监狱里",
-		"english": "in prison",
-		"soundmark": "/ɪn/ /ˈprɪzn/"
+		"chinese": "星荣(已经)完成了他的项目",
+		"english": "Xingrong has finished his project",
+		"soundmark": "/hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "你",
-		"english": "you",
-		"soundmark": "/ju/"
+		"chinese": "它(已经)完成了它的项目",
+		"english": "it has finished its project",
+		"soundmark": "/ɪt/ /hæz/ /'fɪnɪʃt/ /ɪts/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "你在监狱里",
-		"english": "you are in prison",
-		"soundmark": "/ju/ /ɚ/ /ɪn/ /ˈprɪzn/"
+		"chinese": "她(已经)完成了她的项目",
+		"english": "she has finished her project",
+		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
 	},
 	{
-		"chinese": "你(过去)在监狱里",
-		"english": "you were in prison",
-		"soundmark": "/ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+		"chinese": "家庭作业",
+		"english": "homework",
+		"soundmark": "/'homwɝk/"
 	},
 	{
-		"chinese": "当",
+		"chinese": "她(已经)完成了她的家庭作业",
+		"english": "she has finished her homework",
+		"soundmark": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+	},
+	{
+		"chinese": "她(过去已经)完成了她的家庭作业",
+		"english": "she had finished her homework",
+		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+	},
+	{
+		"chinese": "去",
+		"english": "to go",
+		"soundmark": "/tə/ /ɡo/"
+	},
+	{
+		"chinese": "外面",
+		"english": "out",
+		"soundmark": "/aʊt/"
+	},
+	{
+		"chinese": "去外面",
+		"english": "to go out",
+		"soundmark": "/tə/ /ɡo/ /aʊt/"
+	},
+	{
+		"chinese": "玩",
+		"english": "to play",
+		"soundmark": "/tə/ /ple/"
+	},
+	{
+		"chinese": "去外面玩",
+		"english": "to go out to play",
+		"soundmark": "/tə/ /ɡo/ /aʊt/ /tə/ /ple/"
+	},
+	{
+		"chinese": "她去外面玩",
+		"english": "she goes out to play",
+		"soundmark": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/"
+	},
+	{
+		"chinese": "她(过去)去外面玩",
+		"english": "she went out to play",
+		"soundmark": "/ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+	},
+	{
+		"chinese": "在...之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
+	},
+	{
+		"chinese": "在她(过去)去外面玩之前",
+		"english": "before she went out to play",
+		"soundmark": "/bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+	},
+	{
+		"chinese": "她(过去已经)完成了她的家庭作业",
+		"english": "she had finished her homework",
+		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+	},
+	{
+		"chinese": "在她(过去)去外面玩之前，她(过去已经)完成了她的家庭作业",
+		"english": "she had finished her homework before she went out to play",
+		"soundmark": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/ /bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+	},
+	{
+		"chinese": "离开",
+		"english": "to leave",
+		"soundmark": "/tə/ /liv/"
+	},
+	{
+		"chinese": "离开(ed形式)",
+		"english": "left",
+		"soundmark": "/lɛft/"
+	},
+	{
+		"chinese": "他们(过去已经)离开",
+		"english": "they had left",
+		"soundmark": "/ðe/ /hæd/ /lɛft/"
+	},
+	{
+		"chinese": "派对",
+		"english": "party",
+		"soundmark": "/'pɑrti/"
+	},
+	{
+		"chinese": "他们(过去已经)离开了那个派对",
+		"english": "they had left the party",
+		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+	},
+	{
+		"chinese": "到达",
+		"english": "to arrive",
+		"soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "我(过去)到达",
+		"english": "I arrived",
+		"soundmark": "/aɪ/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "在...之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
+	},
+	{
+		"chinese": "在我(过去)到达之前",
+		"english": "before I arrived",
+		"soundmark": "/bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "他们(过去已经)离开了那个派对",
+		"english": "they had left the party",
+		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+	},
+	{
+		"chinese": "在我(过去)到达之前他们(过去已经)离开了那个派对",
+		"english": "they had left the party before I arrived",
+		"soundmark": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/ /bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "吃",
+		"english": "to eat",
+		"soundmark": "/tə/ /it/"
+	},
+	{
+		"chinese": "吃(ed形式)",
+		"english": "eaten",
+		"soundmark": "/'itn/"
+	},
+	{
+		"chinese": "她(过去已经)吃",
+		"english": "she had eaten",
+		"soundmark": "/ʃi/ /hæd/ /'itn/"
+	},
+	{
+		"chinese": "晚饭",
+		"english": "dinner",
+		"soundmark": "/'dɪnɚ/"
+	},
+	{
+		"chinese": "她(过去已经)吃了晚饭",
+		"english": "she had eaten dinner",
+		"soundmark": "/ʃi/ /hæd/ /'itn/ /'dɪnɚ/"
+	},
+	{
+		"chinese": "已经",
+		"english": "already",
+		"soundmark": "/ɔl'rɛdi/"
+	},
+	{
+		"chinese": "她(过去)已经吃了晚饭",
+		"english": "she had already eaten dinner",
+		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+	},
+	{
+		"chinese": "到达",
+		"english": "to arrive",
+		"soundmark": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "我(过去)到达",
+		"english": "I arrived",
+		"soundmark": "/aɪ/ /ə'raɪvd/"
+	},
+	{
+		"chinese": "家",
+		"english": "home",
+		"soundmark": "/hom/"
+	},
+	{
+		"chinese": "我(过去)到达家",
+		"english": "I arrived home",
+		"soundmark": "/aɪ/ /ə'raɪvd/ /hom/"
+	},
+	{
+		"chinese": "当...的时候",
 		"english": "when",
 		"soundmark": "/wɛn/"
 	},
 	{
-		"chinese": "当你(过去)在监狱里",
-		"english": "when you were in prison",
-		"soundmark": "/wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+		"chinese": "当我(过去)到达家的时候",
+		"english": "when I arrived home",
+		"soundmark": "/wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到写这本书的？",
-		"english": "how did you manage to write this book",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/"
+		"chinese": "她(过去)已经吃了晚饭",
+		"english": "she had already eaten dinner",
+		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到写这本书的当你(过去)在监狱里？",
-		"english": "how did you manage to write this book when you were in prison",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/ /wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+		"chinese": "当我(过去)到达家的时候她(过去)已经吃了晚饭",
+		"english": "she had already eaten dinner when I arrived home",
+		"soundmark": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/ /wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
 	},
 	{
-		"chinese": "说话",
-		"english": "to speak",
-		"soundmark": "/tə/ /spik/"
+		"chinese": "阅读",
+		"english": "to read",
+		"soundmark": "/tə/ /rid/"
 	},
 	{
-		"chinese": "演讲",
-		"english": "speaking",
-		"soundmark": "/'spikɪŋ/"
+		"chinese": "阅读(ed形式)",
+		"english": "read",
+		"soundmark": "/rɛd/"
 	},
 	{
-		"chinese": "公开的",
-		"english": "public",
-		"soundmark": "/ˈpʌblɪk/"
+		"chinese": "我(过去已经)阅读",
+		"english": "I had read",
+		"soundmark": "/aɪ/ /hæd/ /rɛd/"
 	},
 	{
-		"chinese": "公开演讲",
-		"english": "public speaking",
-		"soundmark": "/ˈpʌblɪk/ /'spikɪŋ/"
+		"chinese": "那本书",
+		"english": "the book",
+		"soundmark": "/ðə/ /bʊk/"
 	},
 	{
-		"chinese": "恐惧",
-		"english": "fear",
-		"soundmark": "/fɪr/"
+		"chinese": "我(过去已经)阅读过那本书",
+		"english": "I had read the book",
+		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
 	},
 	{
-		"chinese": "公开演讲的恐惧",
-		"english": "fear of public speaking",
-		"soundmark": "/fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"chinese": "改编",
+		"english": "to adapt",
+		"soundmark": "/tə/ /əˈdæpt/"
 	},
 	{
-		"chinese": "你的公开演讲的恐惧",
-		"english": "your fear of public speaking",
-		"soundmark": "/jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"chinese": "改编",
+		"english": "adaptation",
+		"soundmark": "/ˌædæpˈteʃn/"
 	},
 	{
-		"chinese": "克服",
-		"english": "to overcome",
-		"soundmark": "/tə/ /ˌovɚˈkʌm/"
+		"chinese": "那个电影",
+		"english": "the movie",
+		"soundmark": "/ðə/ /'muvi/"
 	},
 	{
-		"chinese": "克服你的公开演讲的恐惧",
-		"english": "to overcome your fear of public speaking",
-		"soundmark": "/tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"chinese": "那个电影改编",
+		"english": "the movie adaptation",
+		"soundmark": "/ðə/ /'muvi/ /ˌædæpˈteʃn/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+		"chinese": "看",
+		"english": "to watch",
+		"soundmark": "/tə/ /wɑtʃ/"
 	},
 	{
-		"chinese": "你(过去)如何设法做到克服你的公开演讲的恐惧的？",
-		"english": "how did you manage to overcome your fear of public speaking",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+		"chinese": "(过去)看 ",
+		"english": "watched",
+		"soundmark": "/wɑtʃt/"
 	},
 	{
-		"chinese": "工作",
-		"english": "work",
-		"soundmark": "/wɝk/"
+		"chinese": "(过去)看那个电影改编",
+		"english": "watched the movie adaptation",
+		"soundmark": "/wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
 	},
 	{
-		"chinese": "生活",
-		"english": "life",
-		"soundmark": "/laɪf/"
+		"chinese": "我(过去)看那个电影改编",
+		"english": "I watched the movie adaptation",
+		"soundmark": "/aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
 	},
 	{
-		"chinese": "工作和生活",
-		"english": "work and life",
-		"soundmark": "/wɝk/ /ənd/ /laɪf/"
+		"chinese": "在...之前",
+		"english": "before",
+		"soundmark": "/bɪ'fɔr/"
 	},
 	{
-		"chinese": "在......之间",
-		"english": "between",
-		"soundmark": "/bɪ'twin/"
+		"chinese": "在我(过去)看那个电影改编之前",
+		"english": "before I watched the movie adaptation",
+		"soundmark": "/bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
 	},
 	{
-		"chinese": "在工作和生活之间",
-		"english": "between work and life",
-		"soundmark": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+		"chinese": "我(过去已经)阅读过那本书",
+		"english": "I had read the book",
+		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
 	},
 	{
-		"chinese": "平衡",
-		"english": "the balance",
-		"soundmark": "/ðə/ /'bæləns/"
-	},
-	{
-		"chinese": "在工作和生活之间的平衡",
-		"english": "the balance between work and life",
-		"soundmark": "/ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
-	},
-	{
-		"chinese": "保持",
-		"english": "to keep",
-		"soundmark": "/tə/ /kip/"
-	},
-	{
-		"chinese": "保持在工作和生活之间的平衡",
-		"english": "to keep the balance between work and life",
-		"soundmark": "/tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
-	},
-	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
-	},
-	{
-		"chinese": "你(过去)如何设法做到保持在工作和生活之间的平衡的？",
-		"english": "how did you manage to keep the balance between work and life",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
-	},
-	{
-		"chinese": "钱",
-		"english": "money",
-		"soundmark": "/ˈmʌni/"
-	},
-	{
-		"chinese": "足够的",
-		"english": "enough",
-		"soundmark": "/ɪ'nʌf/"
-	},
-	{
-		"chinese": "足够的钱",
-		"english": "enough money",
-		"soundmark": "/ɪ'nʌf/ /ˈmʌni/"
-	},
-	{
-		"chinese": "存",
-		"english": "to save",
-		"soundmark": "/tə/ /sev/"
-	},
-	{
-		"chinese": "存足够的钱",
-		"english": "to save enough money",
-		"soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
-	},
-	{
-		"chinese": "度假",
-		"english": "vacation",
-		"soundmark": "/veˈkeʃn/"
-	},
-	{
-		"chinese": "那个度假",
-		"english": "that vacation",
-		"soundmark": "/ðæt/ /veˈkeʃn/"
-	},
-	{
-		"chinese": "为那个度假存足够的钱",
-		"english": "to save enough money for that vacation",
-		"soundmark": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
-	},
-	{
-		"chinese": "你(过去)如何设法做到",
-		"english": "how did you manage",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
-	},
-	{
-		"chinese": "你(过去)如何设法做到为那个度假存足够的钱的？",
-		"english": "how did you manage to save enough money for that vacation",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
-	},
-	{
-		"chinese": "短",
-		"english": "short",
-		"soundmark": "/ʃɔrt/"
-	},
-	{
-		"chinese": "一段短的时间",
-		"english": "a short time",
-		"soundmark": "/ə/ /ʃɔrt/ /taɪm/"
-	},
-	{
-		"chinese": "在一段短的时间里",
-		"english": "in a short time",
-		"soundmark": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/"
-	},
-	{
-		"chinese": "在一段如此短的时间里",
-		"english": "in such a short time",
-		"soundmark": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
-	},
-	{
-		"chinese": "你(过去)如何设法做到为那个度假存足够的钱的？",
-		"english": "how did you manage to save enough money for that vacation",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
-	},
-	{
-		"chinese": "你(过去)如何设法做到在一段如此短的时间里为那个度假存足够的钱的？",
-		"english": "how did you manage to save enough money for that vacation in such a short time",
-		"soundmark": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+		"chinese": "在我(过去)看那个电影改编之前我(过去已经)阅读过那本书",
+		"english": "I had read the book before I watched the movie adaptation",
+		"soundmark": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/ /bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
 	}
 ]

@@ -11,6 +11,9 @@ importers:
       '@inquirer/prompts':
         specifier: ^7.1.0
         version: 7.1.0(@types/node@22.9.1)
+      natsort:
+        specifier: ^2.0.3
+        version: 2.0.3
 
 packages:
 
@@ -141,6 +144,9 @@ packages:
   mute-stream@2.0.0:
     resolution: {integrity: sha512-WWdIxpyjEn+FhQJQQv9aQAYlHoNVdzIzUySNV1gHUPDSdZJ3yZn7pAAbQcV7B56Mvu881q9FZV+0Vx2xC44VWA==}
     engines: {node: ^18.17.0 || >=20.5.0}
+
+  natsort@2.0.3:
+    resolution: {integrity: sha512-fuzhAiXcdNAIg2f5kqFOAABvX+uDoJvZs6DvCgioPf7FRAMHsw6G4kH7GFjSZ31yNFkNJuuOIilE8jl0JkavVQ==}
 
   os-tmpdir@1.0.2:
     resolution: {integrity: sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==}
@@ -327,6 +333,8 @@ snapshots:
   is-fullwidth-code-point@3.0.0: {}
 
   mute-stream@2.0.0: {}
+
+  natsort@2.0.3: {}
 
   os-tmpdir@1.0.2: {}
 
