@@ -126,14 +126,19 @@ const mainMenu = async () => {
         unit.sort(() => Math.random() - 0.5);
       });
     } else if (practiceMode === 'longSentence') {
-      selectedUnits = selectedUnits.map(unit => {
-        // 筛选出长句子（英文单词数大于设定值的句子）
-        const longSentences = unit.filter(sentence => 
-          sentence.english.split(' ').length >= minWordsForLongSentence
-        );
-        // 打乱长句子的顺序
-        return longSentences.sort(() => Math.random() - 0.5);
+      // 合并所有单元的数据
+      let allSentences = [];
+      selectedUnits.forEach(unit => {
+        allSentences = allSentences.concat(unit);
       });
+
+      // 筛选出长句子（英文单词数大于设定值的句子）
+      const longSentences = allSentences.filter(sentence => 
+        sentence.english.split(' ').length >= minWordsForLongSentence
+      );
+
+      // 打乱长句子的顺序
+      selectedUnits = [longSentences.sort(() => Math.random() - 0.5)];
     }
   
     for (const unitData of selectedUnits) {
