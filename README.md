@@ -1,5 +1,5 @@
 # English Learning CLI
-一个使用命令行学习英语的工具，使用了 [Cuixueshe Earthworm](https://github.com/cuixueshe/earthworm) 的玩法和课程。
+一个使用命令行学习英语的工具，使用了 [Cuixueshe Earthworm](https://github.com/cuixueshe/earthworm) 的玩法和星荣英语的课程。
 
 
 ## Gif效果图
