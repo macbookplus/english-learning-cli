@@ -55,7 +55,9 @@ const askQuestions = async (unitData) => {
 
     // 校验答案
     while (!checkAnswer(userAnswer, question.english)) {
-      errorCount++;
+      if(userAnswer){
+        errorCount++;
+      }
     
       console.log(i18n.wrongAnswer);
       if (errorCount >= 3) {
